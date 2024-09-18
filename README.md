@@ -18,5 +18,10 @@ Python script that analyzes follower/following count.
    ```bash
    pip install instaloader
 2. **Run**
-  ```bash
+   ```bash
    python insta_follower_analysis.py
+
+## Disclaimer 
+
+**Usage Responsibility:**
+  This script uses [Instaloader](https://github.com/instaloader/instaloader) for interacting with Instagram data. Excessive use might lead to account issues and since  Instaloader is not affiliated with Instagram. Use at your own risk.
