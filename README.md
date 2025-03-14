@@ -4,10 +4,6 @@
 
 Python script that analyzes follower/following count.
 
-## Features
-- Identifies accounts you follow that do not follow you back.
-- Identifies accounts that follow you but you do not follow back.
-
 ## Requirements
 - Python 3.x
 - Instaloader (`pip install instaloader`)
